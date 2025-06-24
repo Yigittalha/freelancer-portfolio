@@ -181,8 +181,7 @@ To enable GitHub Pages:
 ## 📞 Support & Contact
 
 For questions or support:
-- 📧 Email: freelancer@example.com
-- 📱 Phone: +90 555 123 45 67
+- 📧 Email: yigtdeveloper@gmail.com
 - 🐙 GitHub: [Issues](https://github.com/Yigittalha/freelancer-portfolio/issues)
 
 ## 📜 License

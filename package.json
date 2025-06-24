@@ -1,0 +1,31 @@
+{
+  "name": "freelancer-portfolio",
+  "version": "1.0.0",
+  "description": "Modern freelancer portfolio website with premium design",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required for static site' && exit 0",
+    "start": "echo 'Static site - open index.html' && exit 0",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "freelancer",
+    "website",
+    "html",
+    "css",
+    "javascript",
+    "responsive",
+    "modern"
+  ],
+  "author": "Yigit Talha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yigittalha/freelancer-portfolio.git"
+  },
+  "homepage": "https://yigittalha.github.io/freelancer-portfolio/",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
